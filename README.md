@@ -128,6 +128,6 @@ used by our reducer to determine the next state.
 To simplify the process of dispatching actions, we can write **action creator**
 functions that return action objects.
 
-## Resources
+## Resources.
 
 - [Redux: Designing Actions](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers#designing-actions)
